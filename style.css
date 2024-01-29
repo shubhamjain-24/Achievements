@@ -354,6 +354,11 @@ html,body{
     justify-content: center;
     margin-right: 30px;
 }
+#socials a{
+    text-decoration: none;
+    color: #1c1c19;
+
+}
 #socials p{
     padding: 5px;
     cursor: pointer;
